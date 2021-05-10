@@ -268,10 +268,8 @@ function About() {
 								Claim Asset
 							</h4>
 							<p className="text-gray-600 text-center">
-								Claim your asset by clicking the link provided by Beam Butler.
-								This is the link that was extracted from the QR Code. Enjin
-								Wallet will automatically capture this link and will redirect
-								you straight to Claim page.
+								Claim your asset by clicking the link sent by Beam Butler. This
+								is the link that was extracted from the QR Code.
 							</p>
 						</div>
 					</div>

@@ -88,7 +88,7 @@ function Hero() {
 										className="btn text-white bg-blue-600 hover:bg-blue-700 w-full mb-4 sm:w-auto sm:mb-0"
 										href="https://jumpnet.enjinx.io/eth/asset/7040000000000338"
 									>
-										Buy an Access Card
+										Buy a Butler Pass
 									</a>
 								</div>
 								{/* <div>

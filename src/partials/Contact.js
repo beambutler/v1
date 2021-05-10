@@ -13,9 +13,9 @@ function Contact() {
 				<div className="py-12 md:py-20">
 					{/* Section header */}
 					{/* <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
-						<h2 className="h2 mb-4">How to activate Access Card</h2>
+						<h2 className="h2 mb-4">How to activate Butler Pass</h2>
 						<p className="text-xl text-gray-600" data-aos="zoom-y-out">
-							Upon purchase of Beam Butler Access Card, send a message on to
+							Upon purchase of Beam Butler Butler Pass, send a message on to
 							@beambutleradmin on Telegram using the link below for your
 							invitation link.
 						</p>
@@ -37,7 +37,7 @@ function Contact() {
 								</div>
 								<blockquote className="text-xl font-medium mb-4">
 									To redeem your invitation link, send your wallet address and a
-									screenshot of Access Card NFT in your Enjin Wallet to
+									screenshot of Butler Pass NFT in your Enjin Wallet to
 									@beambutleradmin on Telegram. Please allow up to 24 hours for
 									a response.
 								</blockquote>

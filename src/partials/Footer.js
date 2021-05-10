@@ -38,7 +38,7 @@ function Hero() {
 			</div> */}
 
 			<img
-				src={require('../images/access-card.png').default}
+				src={require('../images/butler-pass.jpg').default}
 				className="rounded shadow-xl"
 				style={{
 					marginLeft: 'auto',
@@ -48,7 +48,7 @@ function Hero() {
 				}}
 				width="300"
 				height="300"
-				alt="Access Card"
+				alt="Butler Pass"
 			/>
 
 			<div className="max-w-6xl mx-auto px-4 sm:px-6">
@@ -75,8 +75,8 @@ function Hero() {
 								data-aos="zoom-y-out"
 								data-aos-delay="150"
 							>
-								Don't miss out on any Enjin Beam airdrops! Get your Beam Butler
-								Access Card today.
+								Don't miss out on any Enjin Beam airdrops! Get your Butler Pass
+								today.
 							</p>
 							<div
 								className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center"
@@ -88,7 +88,7 @@ function Hero() {
 										className="btn text-white bg-blue-600 hover:bg-blue-700 w-full mb-4 sm:w-auto sm:mb-0"
 										href="https://jumpnet.enjinx.io/eth/asset/7040000000000338"
 									>
-										Buy an Access Card
+										Buy a Butler Pass
 									</a>
 								</div>
 
