@@ -75,7 +75,8 @@ function Hero() {
 								data-aos="zoom-y-out"
 								data-aos-delay="150"
 							>
-								Don't miss any Enjin airdrops! Buy a Beam Butler Access Card.
+								Don't miss out on any Enjin Beam airdrops! Get your Beam Butler
+								Access Card today.
 							</p>
 							<div
 								className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center"
