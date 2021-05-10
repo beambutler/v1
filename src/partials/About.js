@@ -17,7 +17,7 @@ function About() {
 						<h2 className="h2 mb-4">How Beam Butler works</h2>
 						<p className="text-xl text-gray-600">
 							Beam Butler is an exclusive Telegram broadcast channel powered by
-							a Twitter bot that monitors and analyzes Enjin-related tweets in
+							a Twitter bot that monitors 50+ Enjin-related accounts in
 							real-time. Here's how it works:
 						</p>
 					</div>

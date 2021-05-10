@@ -75,7 +75,7 @@ function FAQs() {
 							</h4>
 							<p className="text-gray-600 text-center">
 								Beam Butler works 24/7 and monitors more than 50 Enjin-related
-								accounts on Twitter that could possibly drop QR codes.
+								accounts on Twitter that could potentially drop QR codes.
 							</p>
 						</div>
 						<div className="relative flex flex-col items-center p-6 bg-white rounded shadow-xl">
