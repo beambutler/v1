@@ -61,7 +61,7 @@ function About() {
 								</g>
 							</svg>
 							<h4 className="text-xl font-bold leading-snug tracking-tight mb-1">
-								Tweets Monitoring
+								Twitter Monitoring
 							</h4>
 							<p className="text-gray-600 text-center">
 								Beam Butler scans Enjin-related tweets in real time.
@@ -105,7 +105,7 @@ function About() {
 								QR Code Detection
 							</h4>
 							<p className="text-gray-600 text-center">
-								Tweets with images are analyzed for a QR code.
+								Tweets with images are analyzed for a potential QR code.
 							</p>
 						</div>
 
@@ -139,7 +139,9 @@ function About() {
 								Link Extraction
 							</h4>
 							<p className="text-gray-600 text-center">
-								Embedded link is extracted if a QR code is detected.
+								The embedded link is extracted if a QR code is detected. This
+								process eliminates the need for scanning QR or uploading a
+								screenshot to Enjin Wallet.
 							</p>
 						</div>
 
@@ -263,11 +265,13 @@ function About() {
 								</g>
 							</svg>
 							<h4 className="text-xl font-bold leading-snug tracking-tight mb-1">
-								Claim QR Code
+								Claim Asset
 							</h4>
 							<p className="text-gray-600 text-center">
 								Claim your asset by clicking the link provided by Beam Butler.
-								No need to scan.
+								This is the link that was extracted from the QR Code. Enjin
+								Wallet will automatically capture this link and will redirect
+								you straight to Claim page.
 							</p>
 						</div>
 					</div>

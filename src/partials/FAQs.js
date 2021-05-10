@@ -25,22 +25,38 @@ function FAQs() {
 								Why Beam Butler?
 							</h4>
 							<p className="text-gray-600 text-center">
-								Beam Butler is 100% automated and sends a Telegram broadcast
-								within seconds of detecting an Enjin Beam QR code. With Beam
-								Butler, there's no need to scan or upload a screenshot on the
-								Enjin Wallet. All you have to do is click the broadcasted link
-								to claim the airdrop.
+								With JumpNet released, we can expect a lot of Enjin Beam QR
+								giveaways in the near future. Beam Butler is fully automated and
+								sends a Telegram broadcast within seconds of detecting an Enjin
+								Beam QR code. With Beam Butler, there's no need to scan a QR or
+								upload a screenshot on the Enjin Wallet. All you have to do is
+								click a link to claim the airdrop. This link is automatically
+								captured by the Enjin Wallet where you are redirected straight
+								to Claim page.
 							</p>
 						</div>
-
+						<div className="relative flex flex-col items-center p-6 bg-white rounded shadow-xl">
+							<h4 className="text-xl text-center font-bold leading-snug tracking-tight mb-1">
+								How to gain access to Beam Butler?
+							</h4>
+							<p className="text-gray-600 text-center">
+								Access is granted only for those holding the Beam Butler Access
+								Card sold on JumpNet marketplace. If you are interested, there's
+								a link to Access Card at the bottom of this page. Upon purchase,
+								send your wallet address and a screenshot of Access Card NFT in
+								your Enjin Wallet to @beambutleradmin on Telegram. An invitation
+								link to the Beam Butler Telegram channel will be sent back
+								within 24 hours.
+							</p>
+						</div>
 						<div className="relative flex flex-col items-center p-6 bg-white rounded shadow-xl">
 							<h4 className="text-xl text-center font-bold leading-snug tracking-tight mb-1">
 								What happens if I transfer my Access Card to another address?
 							</h4>
 							<p className="text-gray-600 text-center">
-								The new owner must send a message to Beam Butler Admin to claim
-								a new invitation link. The previous owner will be removed from
-								the Telegram channel.
+								The new owner must send a message to @beambutleradmin to claim a
+								new invitation link. The previous owner of the Access Card will
+								be removed from the Telegram channel.
 							</p>
 						</div>
 						<div className="relative flex flex-col items-center p-6 bg-white rounded shadow-xl">
@@ -48,7 +64,7 @@ function FAQs() {
 								What happens if multiple people clicks an invitation link?
 							</h4>
 							<p className="text-gray-600 text-center">
-								The invitation link sent by Beam Butler Admin expires after
+								The invitation link sent by @beambutleradmin expires after
 								single-use. This prevents multiple people using the same Access
 								Card.
 							</p>
@@ -58,7 +74,7 @@ function FAQs() {
 								How many Twitter accounts does Beam Butler monitor?
 							</h4>
 							<p className="text-gray-600 text-center">
-								Beam Butler works 24/7 and monitors more than 30 Enjin-related
+								Beam Butler works 24/7 and monitors more than 50 Enjin-related
 								accounts on Twitter that could possibly drop QR codes.
 							</p>
 						</div>
