@@ -1,6 +1,6 @@
 {
-  "homepage": "http://beambutler.github.io/v1",
-  "name": "beam-butler",
+  "homepage": "https://beambutler.github.io/v1",
+  "name": "v1",
   "version": "0.1.0",
   "private": false,
   "dependencies": {
