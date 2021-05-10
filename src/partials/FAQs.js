@@ -28,11 +28,12 @@ function FAQs() {
 								With JumpNet released, we can expect a lot of Enjin Beam QR
 								giveaways in the near future. Beam Butler is fully automated and
 								sends a Telegram broadcast within seconds of detecting an Enjin
-								Beam QR code. With Beam Butler, there's no need to scan a QR or
-								upload a screenshot on the Enjin Wallet. All you have to do is
-								click a link to claim an airdrop. This link is automatically
-								captured by the Enjin Wallet where you are redirected straight
-								to redeem page.
+								Beam QR code. With Beam Butler, you get a front-row seat to
+								newly posted Enjin Beam QR codes. Plus, there's no need to scan
+								a QR or upload a screenshot on the Enjin Wallet. All you have to
+								do is click a link to claim an airdrop. This link is
+								automatically captured by the Enjin Wallet where you are
+								redirected straight to redeem page.
 							</p>
 						</div>
 						<div className="relative flex flex-col items-center p-6 bg-white rounded shadow-xl">
