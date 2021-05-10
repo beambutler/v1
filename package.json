@@ -1,9 +1,8 @@
 {
-  "homepage": "http://beam-butler.github.io/",
-
+  "homepage": "http://beambutler.github.io/v1",
   "name": "beam-butler",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@craco/craco": "^6.1.1",
     "@tailwindcss/forms": "^0.3.2",
