@@ -38,8 +38,8 @@ function Contact() {
 								<blockquote className="text-xl font-medium mb-4">
 									To redeem your invitation link, send your wallet address and a
 									screenshot of Access Card NFT in your Enjin Wallet to
-									@beambutleradmin on Telegram. Please allow up 24 hours for a
-									response.
+									@beambutleradmin on Telegram. Please allow up to 24 hours for
+									a response.
 								</blockquote>
 								<cite className="block font-bold text-lg not-italic mb-1">
 									@beambutleradmin

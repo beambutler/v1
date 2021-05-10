@@ -75,7 +75,7 @@ function Hero() {
 								data-aos="zoom-y-out"
 								data-aos-delay="150"
 							>
-								Beam Butler gives you a front row seat on newly posted Enjin
+								Beam Butler gives you a front-row seat on newly posted Enjin
 								Beam QR drops on Twitter.
 							</p>
 							<div
