@@ -105,7 +105,7 @@ function About() {
 								QR Code Detection
 							</h4>
 							<p className="text-gray-600 text-center">
-								Tweets with images are analyzed for a potential QR code.
+								Tweets with images are analyzed for QR codes.
 							</p>
 						</div>
 
@@ -139,9 +139,7 @@ function About() {
 								Link Extraction
 							</h4>
 							<p className="text-gray-600 text-center">
-								The embedded link is extracted if a QR code is detected. This
-								process eliminates the need for scanning a QR or uploading a
-								screenshot to Enjin Wallet.
+								The embedded link is extracted if a QR code is detected.
 							</p>
 						</div>
 
@@ -188,9 +186,8 @@ function About() {
 								Verification
 							</h4>
 							<p className="text-gray-600 text-center">
-								The link extracted is validated as an Enjin Beam link and then
-								crosschecked against a database of old links to avoid
-								duplication.
+								The link is validated and crosschecked against a database of old
+								links to avoid duplication.
 							</p>
 						</div>
 
@@ -225,7 +222,7 @@ function About() {
 							</h4>
 							<p className="text-gray-600 text-center">
 								Once validated, a broadcast is sent to Beam Butler Telegram
-								channel with a link to claim the asset.
+								channel with a link to claim the airdrop.
 							</p>
 						</div>
 
@@ -265,11 +262,11 @@ function About() {
 								</g>
 							</svg>
 							<h4 className="text-xl font-bold leading-snug tracking-tight mb-1">
-								Claim Asset
+								Claim Airdrop
 							</h4>
 							<p className="text-gray-600 text-center">
-								Claim your asset by clicking the link sent by Beam Butler. This
-								is the link that was extracted from the QR Code.
+								Claim your airdrop by clicking the link sent by Beam Butler.
+								This is the link that was extracted from the QR Code.
 							</p>
 						</div>
 					</div>
