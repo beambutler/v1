@@ -139,7 +139,7 @@ function About() {
 								Link Extraction
 							</h4>
 							<p className="text-gray-600 text-center">
-								The embedded link is extracted if a QR code is detected.
+								If a QR code is detected, the embedded link is extracted.
 							</p>
 						</div>
 
@@ -222,7 +222,7 @@ function About() {
 							</h4>
 							<p className="text-gray-600 text-center">
 								Once validated, a broadcast is sent to Beam Butler Telegram
-								channel with a link to claim the airdrop.
+								channel with the link to claim the airdrop.
 							</p>
 						</div>
 
