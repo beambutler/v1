@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/v1/static/css/main.233fd306.chunk.css",
-    "main.js": "/v1/static/js/main.273eaf70.chunk.js",
-    "main.js.map": "/v1/static/js/main.273eaf70.chunk.js.map",
+    "main.js": "/v1/static/js/main.1f7272c1.chunk.js",
+    "main.js.map": "/v1/static/js/main.1f7272c1.chunk.js.map",
     "runtime-main.js": "/v1/static/js/runtime-main.a4f24ddd.js",
     "runtime-main.js.map": "/v1/static/js/runtime-main.a4f24ddd.js.map",
     "static/js/2.9f52baea.chunk.js": "/v1/static/js/2.9f52baea.chunk.js",
@@ -10,7 +10,7 @@
     "index.html": "/v1/index.html",
     "static/css/main.233fd306.chunk.css.map": "/v1/static/css/main.233fd306.chunk.css.map",
     "static/js/2.9f52baea.chunk.js.LICENSE.txt": "/v1/static/js/2.9f52baea.chunk.js.LICENSE.txt",
-    "static/media/beam-butler.jpg": "/v1/static/media/beam-butler.6841caac.jpg",
+    "static/media/beam-butler.jpg": "/v1/static/media/beam-butler.be9c5f7e.jpg",
     "static/media/butler-pass.jpg": "/v1/static/media/butler-pass.d409160e.jpg",
     "static/media/features-bg.png": "/v1/static/media/features-bg.69c5091d.png"
   },
@@ -18,6 +18,6 @@
     "static/js/runtime-main.a4f24ddd.js",
     "static/js/2.9f52baea.chunk.js",
     "static/css/main.233fd306.chunk.css",
-    "static/js/main.273eaf70.chunk.js"
+    "static/js/main.1f7272c1.chunk.js"
   ]
 }
