@@ -38,7 +38,7 @@ function Hero() {
 			</div> */}
 
 			<img
-				src={require('../images/butler-pass.jpg').default}
+				src={require('../images/butler-pass.png').default}
 				className="rounded shadow-xl"
 				style={{
 					marginLeft: 'auto',
