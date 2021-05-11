@@ -140,7 +140,7 @@ function About() {
 							</h4>
 							<p className="text-gray-600 text-center">
 								The embedded link is extracted if a QR code is detected. This
-								process eliminates the need for scanning QR or uploading a
+								process eliminates the need for scanning a QR or uploading a
 								screenshot to Enjin Wallet.
 							</p>
 						</div>
