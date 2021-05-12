@@ -17,8 +17,8 @@ function About() {
 						<h2 className="h2 mb-4">How Beam Butler works</h2>
 						<p className="text-xl text-gray-600">
 							Beam Butler is an exclusive Telegram broadcast channel powered by
-							a Twitter bot that monitors 50+ Enjin-related accounts in
-							real-time. Here's how it works:
+							a Twitter bot that monitors 50+ Enjin-related accounts. Here's how
+							it works:
 						</p>
 					</div>
 
@@ -139,7 +139,7 @@ function About() {
 								Link Extraction
 							</h4>
 							<p className="text-gray-600 text-center">
-								If a QR code is detected, the embedded link is extracted.
+								The embedded link inside the QR code is extracted.
 							</p>
 						</div>
 

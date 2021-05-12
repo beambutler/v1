@@ -60,7 +60,7 @@ function FAQs() {
 						</div>
 						<div className="relative flex flex-col items-center p-6 bg-white rounded shadow-xl">
 							<h4 className="text-xl text-center font-bold leading-snug tracking-tight mb-1">
-								What happens if multiple people clicks an invitation link?
+								What happens if multiple people click an invitation link?
 							</h4>
 							<p className="text-gray-600 text-center">
 								The invitation link sent by @beambutleradmin expires after

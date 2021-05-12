@@ -75,7 +75,7 @@ function Hero() {
 								data-aos="zoom-y-out"
 								data-aos-delay="150"
 							>
-								Don't miss out on any Enjin Beam airdrops! Get your Butler Pass
+								Don't miss out on Enjin Beam airdrops. Get your Butler Pass
 								today.
 							</p>
 							<div
