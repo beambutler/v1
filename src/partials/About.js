@@ -139,7 +139,7 @@ function About() {
 								Link Extraction
 							</h4>
 							<p className="text-gray-600 text-center">
-								The embedded link inside the QR code is extracted.
+								The embedded link in the QR code is extracted.
 							</p>
 						</div>
 
